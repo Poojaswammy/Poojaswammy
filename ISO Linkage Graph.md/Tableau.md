@@ -10,7 +10,7 @@ To create an **interactive dashboard** that visualizes entity linkages based on 
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Tableau Desktop 2021.4+**
 - **Tableau Tree Extension**
