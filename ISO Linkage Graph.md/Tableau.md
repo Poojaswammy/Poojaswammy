@@ -1,16 +1,16 @@
-# 📊 ISO Linkage Graphers – Tableau Interactive Dashboard
+#  ISO Linkage Graphers – Tableau Interactive Dashboard
 
 This document outlines the Tableau-based visualization component of the ISO Linkage Graphers project, designed to uncover hidden corporate linkages in fentanyl trafficking networks.
 
 ---
 
-## 🔍 Purpose
+##  Purpose
 
 To create an **interactive dashboard** that visualizes entity linkages based on shared communication identifiers such as email addresses, phone numbers, and chat IDs.
 
 ---
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 
 - **Tableau Desktop 2021.4+**
 - **Tableau Tree Extension**
@@ -18,7 +18,7 @@ To create an **interactive dashboard** that visualizes entity linkages based on 
 
 ---
 
-## 🧱 Data Structure
+##  Data Structure
 
 Each row in the dataset represents a connection between a **base company** and an **associated company** based on a **shared identifier**.
 
@@ -31,7 +31,7 @@ Each row in the dataset represents a connection between a **base company** and a
 
 ---
 
-## 🌳 Tree Graph Dashboard Features
+##  Tree Graph Dashboard Features
 
 - **Tree structure** shows base company and its direct associations.
 - **Color-coded edges**:
@@ -49,7 +49,7 @@ Each row in the dataset represents a connection between a **base company** and a
 
 ---
 
-## 📦 Workbook Deliverable
+##  Workbook Deliverable
 
 - File: `DAEN_690_tableau_Final_1.twbx`
 - Includes:
@@ -59,7 +59,7 @@ Each row in the dataset represents a connection between a **base company** and a
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 - Enabled intuitive navigation across company networks.
 - Helped identify **highly linked companies** for further investigation.
@@ -67,7 +67,14 @@ Each row in the dataset represents a connection between a **base company** and a
 
 ---
 
-## 👩‍💻 My Role
+##  My Role
+
+
+- Developed dashboard layout and data schema.
+- Integrated Tree Extension plugin and custom filters.
+- Prepared linkage mapping and assisted in evidence scoring.
+
+---
 
 - Developed dashboard layout and data schema.
 - Integrated Tree Extension plugin and custom filters.
