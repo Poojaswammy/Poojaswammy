@@ -22,11 +22,7 @@ To build an interactive graph model that uncovers relationships between companie
 ##  Graph Schema
 
 Each company is connected to other entities through a layered relationship graph:
-(BaseCompany)
-└── HAS_METHOD ──> (LinkageMethod)
-└── HAS_LINKAGE ──> (LinkageValue)
-└── HAS_ASSOCIATED_COMPANY ──> (AssociatedCompany)
-
+![image](https://github.com/user-attachments/assets/71e1c115-594c-4847-bf1a-fa895401e834)
 
 ### Nodes:
 - **BaseCompany**: The entity under investigation
