@@ -41,30 +41,21 @@ Each company is connected to other entities through a layered relationship graph
 ---
 
 ## Visualization Output
-Explored relationship graphs using Neo4j Browser
+- Explored relationship graphs using Neo4j Browser
+- Used Neo4j Bloom for visual, interactive exploration
+- Visualized top companies such as Amadis Chemical, Shanghai Hao Zhun, etc.
+- Highlighted frequently used identifiers across companies
+- Allowed cluster exploration based on shared communication links
 
-Used Neo4j Bloom for visual, interactive exploration
-
-Visualized top companies such as Amadis Chemical, Shanghai Hao Zhun, etc.
-
-Highlighted frequently used identifiers across companies
-
-Allowed cluster exploration based on shared communication links
 
 ## Outcome
-Created an explorable relationship graph across all high-risk entities
-
-Revealed communication patterns not visible in flat tables
-
-Improved investigative flow for tracing companies using the same emails or phone numbers
-
-Supported dashboard integration by providing cleaned, prelinked data
+- Created an explorable relationship graph across all high-risk entities
+- Revealed communication patterns not visible in flat tables
+- Improved investigative flow for tracing companies using the same emails or phone numbers
+- Supported dashboard integration by providing cleaned, prelinked data
 
 ## My Role
-Built and tested Cypher queries to extract and link data
-
-Designed the graph schema tailored to communication-based linkages
-
-Filtered high-impact linkages using frequency analysis
-
-Delivered the final Neo4j model for use in visual investigations
+- Built and tested Cypher queries to extract and link data
+- Designed the graph schema tailored to communication-based linkages
+- Filtered high-impact linkages using frequency analysis
+- Delivered the final Neo4j model for use in visual investigations
