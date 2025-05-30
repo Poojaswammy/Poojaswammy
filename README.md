@@ -22,7 +22,7 @@ My work reflects cross-functional collaboration, reproducible analytics, and pra
 ##  How to reach me...
 - Email: poojam1742000@gmail.com  
 - LinkedIn: [Pooja Manjunatha Swamy](https://www.linkedin.com/in/pooja-manjunatha-swamy/)  
-- GitHub: [@POOJAGOWDA174](https://github.com/POOJAGOWDA174)  
+- GitHub: [@Poojaswammy]((https://github.com/Poojaswammy))  
 
 ##  Current Focus Areas
 
