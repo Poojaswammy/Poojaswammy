@@ -17,7 +17,8 @@ My work reflects cross-functional collaboration, reproducible analytics, and pra
 -  [ISO Linkage Graphers](https://github.com/TeamDLinkageGraphers/ISO_Linkage_Graphers): Graph-based contact resolution using Neo4j, AWS Neptune, and Python  
 -  [IMDb Tableau Visualization](https://github.com/Poojaswammy/IMDb-Tableau-Visualization): Dashboard analyzing genre and rating trends using Tableau  
 -  [HealMe – Diabetes Risk Predictor](https://github.com/Poojaswammy/Heal-Me): ML models for predicting diabetes risk using 250K+ real health records  
--  [Social Pulse Analysis](https://github.com/Poojaswammy/Social-Pulse-Analysis): Social media sentiment and engagement analysis.  
+-  [Social Pulse Analysis](https://github.com/Poojaswammy/Social-Pulse-Analysis): Social media sentiment and engagement analysis.
+-  - [Bhagavad Gita RAG Chatbot](https://github.com/POOJAGOWDA174/Bagavadgita): Developed a full-stack AI chatbot using FastAPI, Next.js, and ChromaDB with hybrid retrieval, verse-aware querying, and Groq LLM integration for accurate scripture-based question answering. 
 
 ##  How to reach me...
 - Email: poojam1742000@gmail.com  
