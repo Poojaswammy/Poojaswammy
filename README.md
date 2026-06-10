@@ -1,13 +1,15 @@
 #  Hi there, I'm Pooja Manjunatha Swamy
 
 Aspiring Data Analyst | MS in Data Analytics Engineering @ George Mason University  
-Based in Fairfax, VA | 3.7 GPA  
+Based in Charleston, SC | 3.7 GPA  
 
 ##  About Me
 
-Graduate student in Data Analytics Engineering at George Mason University, currently exploring opportunities as a Data Analyst. My background includes experience through capstone projects, internships, and academic research focused on data analytics, machine learning, and cloud-based solutions.
+Hi, I’m Pooja — a Data Analytics Engineering graduate from George Mason University with a strong interest in data, AI, and machine learning.
 
-I’ve worked on large-scale data projects involving ETL pipeline development, graph-based intelligence systems, and interactive dashboarding using tools like Python, SQL, AWS, Neo4j, and Tableau.
+I enjoy working with messy data, documents, and real-world problems, then turning them into useful insights, models, dashboards, or AI-powered tools. My recent work has focused on research analytics at CARP, where I work with documents, NLP, OCR, and RAG-based systems to make research material easier to search, analyze, and understand.
+
+I’m especially interested in roles where I can combine data analysis, machine learning, NLP, and visualization to support better decision-making. I like building practical solutions that are clear, reliable, and useful — not just technically complex.
 
 My work reflects cross-functional collaboration, reproducible analytics, and practical implementation of data workflows for decision-making and insight generation.
 
