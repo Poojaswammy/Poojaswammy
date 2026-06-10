@@ -28,22 +28,26 @@ My work reflects cross-functional collaboration, reproducible analytics, and pra
 - LinkedIn: [Pooja Manjunatha Swamy](https://www.linkedin.com/in/pooja-manjunatha-swamy/)  
 - GitHub: [github.com/Poojaswammy](https://github.com/Poojaswammy)
 
-##  Current Focus Areas
+```markdown
+## Current Focus Areas
 
-- Making sense of complex data through applied ML and graph analytics  
-- Exploring graph-based intelligence with Neo4j, AWS Neptune, and Gremlin  
-- Engineering real-time ETL pipelines using Python, SQL, and cloud services (AWS S3, Glue, EC2)  
-- Bridging creative design with data — 2D animation meets analytics  
+- Applying data analytics, machine learning, and AI workflows to research-focused problems involving structured and unstructured data.
+- Working on AI-assisted research analytics at CARP using OCR, NLP, topic modeling, sentiment analysis, RAG, and searchable document workflows.
+- Building end-to-end data workflows for data cleaning, merging, wrangling, exploratory analysis, visualization, and insight generation.
+- Developing practical ML and NLP solutions using Python, SQL, Scikit-learn, embeddings, vector search, and LLM-assisted retrieval.
 
-##  Actively Working On
+## Working On
 
-- Deploying NLP + transformer models for sentiment & document analysis  
-- Building ML workflows for health diagnostics, risk forecasting, and scalable BI  
-- Automating end-to-end data pipelines across semi-structured sources  
-- UI/UX design for interactive dashboards and storytelling
+- Leading CARP research data work by transforming academic texts, speeches, reports, and PDFs into searchable and analysis-ready datasets.
+- Developing AI-powered tools such as RAG chatbots, semantic search systems, and document analysis workflows for research use cases.
+- Building machine learning projects focused on classification, risk prediction, feature engineering, model evaluation, and explainable insights.
+- Automating data pipelines across structured, semi-structured, and unstructured sources using Python, SQL, OCR tools, and cloud-based workflows.
+- Creating dashboards, reports, and visual storytelling outputs using Power BI, Tableau, Excel, Jupyter Notebook, and Python visualizations.
 
- ##  Reach Out If You’re...
+## Reach Out If You’re...
 
-- Looking for a data analyst who also speaks design, logic, and Python  
-- Seeking someone who can work across product, tech, and visualization  
-- Building something meaningful with impact — and could use a hybrid mind
+- Looking for a Data Analyst or AI/ML-focused analyst with strong skills in Python, SQL, data cleaning, EDA, machine learning, NLP, and visualization.
+- Seeking someone who can turn messy data, documents, and research material into clean datasets, models, dashboards, and actionable insights.
+- Working on healthcare, public health, academic research, business intelligence, or AI-assisted analytics projects.
+- Building data products, research tools, dashboards, or AI-powered platforms that need a mix of analytics, automation, ML, and clear communication.
+```
