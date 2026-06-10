@@ -28,7 +28,7 @@ My work reflects cross-functional collaboration, reproducible analytics, and pra
 - LinkedIn: [Pooja Manjunatha Swamy](https://www.linkedin.com/in/pooja-manjunatha-swamy/)  
 - GitHub: [github.com/Poojaswammy](https://github.com/Poojaswammy)
 
-```markdown
+
 ## Current Focus Areas
 
 - Applying data analytics, machine learning, and AI workflows to research-focused problems involving structured and unstructured data.
@@ -50,4 +50,4 @@ My work reflects cross-functional collaboration, reproducible analytics, and pra
 - Seeking someone who can turn messy data, documents, and research material into clean datasets, models, dashboards, and actionable insights.
 - Working on healthcare, public health, academic research, business intelligence, or AI-assisted analytics projects.
 - Building data products, research tools, dashboards, or AI-powered platforms that need a mix of analytics, automation, ML, and clear communication.
-```
+
