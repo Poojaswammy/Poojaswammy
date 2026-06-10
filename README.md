@@ -1,9 +1,10 @@
-#  Hi there, I'm Pooja Manjunatha Swamy
+```markdown
+# Hi there, I'm Pooja Manjunatha Swamy
 
 Aspiring Data Analyst | MS in Data Analytics Engineering @ George Mason University  
 Based in Fairfax, VA | 3.7 GPA  
 
-##  About Me
+## About Me
 
 Graduate student in Data Analytics Engineering at George Mason University, currently exploring opportunities as a Data Analyst. My background includes experience through capstone projects, internships, and academic research focused on data analytics, machine learning, and cloud-based solutions.
 
@@ -11,36 +12,40 @@ I’ve worked on large-scale data projects involving ETL pipeline development, g
 
 My work reflects cross-functional collaboration, reproducible analytics, and practical implementation of data workflows for decision-making and insight generation.
 
+## Featured Projects
 
-##  Featured Projects
+- [CARP Course Platform](https://github.com/raghumanjunatha26/carp_course): AI-powered course platform with chatbot, library, and scenario-based learning tools.
+- [PermitPrep MVP](https://github.com/raghumanjunatha26/permit-prep-mvp): Learner permit exam prep web app with Google login, dashboard, practice, learning, and exam modules.
+- [SharpWebWorks](https://github.com/raghumanjunatha26/sharpwebworks): Responsive business website for a modern web-development service brand with premium UI and lead-generation flow.
+- [ISO Linkage Graphers](https://github.com/TeamDLinkageGraphers/ISO_Linkage_Graphers): Graph-based contact resolution using Neo4j, AWS Neptune, and Python.
+- [IMDb Tableau Visualization](https://github.com/Poojaswammy/IMDb-Tableau-Visualization): Dashboard analyzing genre and rating trends using Tableau.
+- [HealMe – Diabetes Risk Predictor](https://github.com/Poojaswammy/Heal-Me): ML models for predicting diabetes risk using 250K+ real health records.
+- [Social Pulse Analysis](https://github.com/Poojaswammy/Social-Pulse-Analysis): Social media sentiment and engagement analysis.
+- [Bhagavad Gita RAG Chatbot](https://github.com/POOJAGOWDA174/Bagavadgita): Full-stack AI chatbot using FastAPI, Next.js, ChromaDB, hybrid retrieval, verse-aware querying, and Groq LLM integration for scripture-based question answering.
 
--  [ISO Linkage Graphers](https://github.com/TeamDLinkageGraphers/ISO_Linkage_Graphers): Graph-based contact resolution using Neo4j, AWS Neptune, and Python  
--  [IMDb Tableau Visualization](https://github.com/Poojaswammy/IMDb-Tableau-Visualization): Dashboard analyzing genre and rating trends using Tableau  
--  [HealMe – Diabetes Risk Predictor](https://github.com/Poojaswammy/Heal-Me): ML models for predicting diabetes risk using 250K+ real health records  
--  [Social Pulse Analysis](https://github.com/Poojaswammy/Social-Pulse-Analysis): Social media sentiment and engagement analysis.
--  [Bhagavad Gita RAG Chatbot](https://github.com/POOJAGOWDA174/Bagavadgita): Developed a full-stack AI chatbot using FastAPI, Next.js, and ChromaDB with hybrid retrieval, verse-aware querying, and Groq LLM integration for accurate scripture-based question answering. 
+## How to reach me...
 
-##  How to reach me...
 - Email: poojam1742000@gmail.com  
 - LinkedIn: [Pooja Manjunatha Swamy](https://www.linkedin.com/in/pooja-manjunatha-swamy/)  
 - GitHub: [github.com/Poojaswammy](https://github.com/Poojaswammy)
 
-##  Current Focus Areas
+## Current Focus Areas
 
-- Making sense of complex data through applied ML and graph analytics  
-- Exploring graph-based intelligence with Neo4j, AWS Neptune, and Gremlin  
-- Engineering real-time ETL pipelines using Python, SQL, and cloud services (AWS S3, Glue, EC2)  
-- Bridging creative design with data — 2D animation meets analytics  
+- Making sense of complex data through applied ML and graph analytics.
+- Exploring graph-based intelligence with Neo4j, AWS Neptune, and Gremlin.
+- Engineering real-time ETL pipelines using Python, SQL, and cloud services such as AWS S3, Glue, and EC2.
+- Bridging creative design with data — 2D animation meets analytics.
 
-##  Actively Working On
+## Actively Working On
 
-- Deploying NLP + transformer models for sentiment & document analysis  
-- Building ML workflows for health diagnostics, risk forecasting, and scalable BI  
-- Automating end-to-end data pipelines across semi-structured sources  
-- UI/UX design for interactive dashboards and storytelling
+- Deploying NLP and transformer models for sentiment and document analysis.
+- Building ML workflows for health diagnostics, risk forecasting, and scalable BI.
+- Automating end-to-end data pipelines across semi-structured sources.
+- UI/UX design for interactive dashboards and storytelling.
 
- ##  Reach Out If You’re...
+## Reach Out If You’re...
 
-- Looking for a data analyst who also speaks design, logic, and Python  
-- Seeking someone who can work across product, tech, and visualization  
-- Building something meaningful with impact — and could use a hybrid mind
+- Looking for a data analyst who also speaks design, logic, and Python.
+- Seeking someone who can work across product, tech, and visualization.
+- Building something meaningful with impact — and could use a hybrid mind.
+```
