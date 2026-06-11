@@ -1,6 +1,6 @@
 #  Hi there, I'm Pooja Manjunatha Swamy
 
-Aspiring Data Analyst | MS in Data Analytics Engineering @ George Mason University  
+Data Analyst / AI/ML Engineer | MS in Data Analytics Engineering @ George Mason University  
 Based in Charleston, SC | 3.7 GPA  
 
 ## About Me
@@ -20,9 +20,9 @@ My goal is to keep growing as someone who can analyze data, build intelligent sy
 
 ##  Featured Projects
 
-- [CARP Course Platform](https://github.com/raghumanjunatha26/carp_course): AI-powered course platform with chatbot, library, and scenario-based learning tools.
+- [CARP Course Platform](https://carp-course.vercel.app/app): AI-powered course platform with chatbot, library, and scenario-based learning tools.
 - [PermitPrep MVP](https://github.com/raghumanjunatha26/permit-prep-mvp): Learner permit exam prep web app with Google login, dashboard, practice, learning, and exam modules.
-- [SharpWebWorks](https://github.com/raghumanjunatha26/sharpwebworks): Responsive business website for a modern web-development service brand with premium UI and lead-generation flow.
+- [SharpWebWorks](https://sharpwebworks.com/): Responsive business website for a modern web-development service brand with premium UI and lead-generation flow.
 -  [ISO Linkage Graphers](https://github.com/TeamDLinkageGraphers/ISO_Linkage_Graphers): Graph-based contact resolution using Neo4j, AWS Neptune, and Python  
 -  [IMDb Tableau Visualization](https://github.com/Poojaswammy/IMDb-Tableau-Visualization): Dashboard analyzing genre and rating trends using Tableau  
 -  [HealMe – Diabetes Risk Predictor](https://github.com/Poojaswammy/Heal-Me): ML models for predicting diabetes risk using 250K+ real health records  
