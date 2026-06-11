@@ -3,15 +3,19 @@
 Aspiring Data Analyst | MS in Data Analytics Engineering @ George Mason University  
 Based in Charleston, SC | 3.7 GPA  
 
-##  About Me
+## About Me
 
-Hi, I’m Pooja — a Data Analytics Engineering graduate from George Mason University with a strong interest in data, AI, and machine learning.
+Hi, I’m Pooja — a Data Analytics Engineering graduate from George Mason University with a strong interest in data, AI, machine learning, NLP, and web development.
 
-I enjoy working with messy data, documents, and real-world problems, then turning them into useful insights, models, dashboards, or AI-powered tools. My recent work has focused on research analytics at CARP, where I work with documents, NLP, OCR, and RAG-based systems to make research material easier to search, analyze, and understand.
+I have worked across research labs, academic research projects, healthcare analytics, public-sector and federal-facing platforms, AI products, entrepreneurial projects, and educational makerspace environments. Through these experiences, I have taken on different roles, including Data Analyst, Research Analyst, AI/ML developer, Web Developer, Project Lead, and Founder.
 
-I’m especially interested in roles where I can combine data analysis, machine learning, NLP, and visualization to support better decision-making. I like building practical solutions that are clear, reliable, and useful — not just technically complex.
+I enjoy building practical solutions that connect data analysis with AI-powered tools. My work includes research analytics, healthcare data analysis, document intelligence, RAG-based chatbots, semantic search, dashboarding, and full-stack web platforms. I like working with messy real-world data and turning it into something useful — whether that is a clean dataset, an ML model, an insight-driven dashboard, or an AI-assisted application.
 
-My work reflects cross-functional collaboration, reproducible analytics, and practical implementation of data workflows for decision-making and insight generation.
+Recently, I have worked on projects such as CARP Lab research platforms, Professor.ai, the Crux proposal tool, PermitPrep DMV, and SharpWebWorks. Across these projects, I have contributed to data workflows, AI use cases, document processing pipelines, chatbot systems, model evaluation, frontend UI, responsive websites, code modularization, GitHub workflows, CI/CD pipelines, and deployment-ready development.
+
+I’m especially interested in the intersection of Data Analytics, AI/ML, NLP, RAG, LLM workflows, and user-friendly web applications. I’m also comfortable working with modern AI and development tools such as ChatGPT, Claude, GitHub Copilot, Cursor, Codex, VS Code, and GitHub to build, debug, improve, and ship projects faster. I also have hands-on experience with AWS services such as EC2, S3, and Neptune, along with Neo4j for graph-based work.
+
+My goal is to keep growing as someone who can analyze data, build intelligent systems, and create clean digital products that are useful, reliable, and easy to understand.
 
 
 ##  Featured Projects
